@@ -1,5 +1,13 @@
 h1 {color: red; font-size: 22pt; margin-left:50px; font-family 'slabo';} 
-Body { background: gray; 
-	     color: black;
+Body {  
+	     color: red;
 	     font-size: 14pt;
-	   }
+	    background-image : url("snowcabin.jpg");
+        	background-repeat : no-repeat;
+        	background-size: cover;
+        	
+        
+	   }.highlightme {background-color:black;}
+	   textarea{
+	   
+}
